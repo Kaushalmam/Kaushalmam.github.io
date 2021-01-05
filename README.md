@@ -1,2 +1,2 @@
-# ChiragSoni95.github.io
-A website to display my work, interests and my web development skills
+This is a web portfolio I bulid to introduce myself to the world and Showcase my work
+Feel free to access it at kaushalmam.github.io
